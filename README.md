@@ -12,10 +12,10 @@ https://github.com/jasonacox/tinytuya/blob/master/README.md
 
 ## Sensor Setup in CBPI:
 <p >In the hardware setup tab, an "Inkbird Sensor" can setup with the following parameters:
-- Device ID - This is the inkbird device ID obtained from the Tuya home automattion developer websites
-- IP Address - This is the inkbird device IP address, this can also be obtained from the Tuya home automation developer website. THis can be - - helpful to identify the device, but is not a neccesary parameter
-- Refresh Rate - This is the time (in seconds) the data from the device will be refreshed in CBPI. default value is 60 (s)
-- Data - This is the sensor data requested from the device, it can be "Temperature" - Existing temperature reading (PV), "Setpoint" - Desired temperture control loop setpoint (SV), or "State" - "Heating or "Cooling" Control on device. Value of 1 = Heating, Value of 2 = Cooling </p>
+    - Device ID - This is the inkbird device ID obtained from the Tuya home automattion developer websites
+    - IP Address - This is the inkbird device IP address, this can also be obtained from the Tuya home automation developer website. This can be - - helpful to identify the device, but is not a neccesary parameter
+    - Refresh Rate - This is the time (in seconds) the data from the device will be refreshed in CBPI. default value is 60 (s)
+    - Data - This is the sensor data requested from the device, it can be "Temperature" - Existing temperature reading (PV), "Setpoint" - Desired temperture control loop setpoint (SV), or "State" - "Heating or "Cooling" Control on device. Value of 1 = Heating, Value of 2 = Cooling </p>
 
 
 ## Fermenter Setup in CBPI:
