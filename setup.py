@@ -11,6 +11,6 @@ setup(name='cbpi4-inkbird-plugin',
         # If any package contains *.txt or *.rst files, include them:
       '': ['*.txt', '*.rst', '*.yaml'],
       'cbpi4-inkbird-plugin': ['*','*.txt', '*.rst', '*.yaml']},
-      packages=['cbpi4-inkbird-plugin','tinytuya'],
+      packages=['cbpi4-inkbird-plugin'],
       install_requires = ['tinytuya']
      )
