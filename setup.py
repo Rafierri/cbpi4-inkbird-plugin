@@ -3,8 +3,8 @@ from setuptools import setup
 setup(name='cbpi4-inkbird-plugin',
       version='0.1.0',
       description='CraftBeerPi4 inkbird temp controller Plugin',
-      author='Mitch Muha',
-      author_email='mitch.muha@gmail.com',
+      author='Rafierri',
+      author_email='',
       url='',
       include_package_data=True,
       package_data={
