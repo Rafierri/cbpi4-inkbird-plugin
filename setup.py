@@ -5,7 +5,7 @@ setup(name='cbpi4-inkbird-plugin',
       description='CraftBeerPi4 inkbird temp controller Plugin',
       author='Rafierri',
       author_email='',
-      url='',
+      url='https://github.com/Rafierri/cbpi4-inkbird-plugin',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
